@@ -3,4 +3,4 @@ Data Peserta Bootcamp Digital Skill - DevOps
 2. Email: pakrirama@gmail.com
 3. Sistem Operasi yang digunakan: Mac Os
 4. Akun Gitlab/Github: pakrirama
-5. Akun Telegram: pakrirama
+5. Akun Telegram: pakrirama 
