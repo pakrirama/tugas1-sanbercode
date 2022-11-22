@@ -1,6 +1,6 @@
 Data Peserta Bootcamp Digital Skill - DevOps
 1. Nama: Muhammad Fakhri Ramadhan
 2. Email: pakrirama@gmail.com
-3. Sistem Operasi yang digunakan: Mac Os
+3. Sistem Operasi yang digunakan: OSX
 4. Akun Gitlab/Github: pakrirama
 5. Akun Telegram: pakrirama 
